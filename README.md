@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **shivanjalikadam25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KA8QmJ0uEcGER7olJe7jmhgQGR7vS_w-/view?usp=drive_link](https://drive.google.com/file/d/1KA8QmJ0uEcGER7olJe7jmhgQGR7vS_w-/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BJEGwTqrvcm_YMOQn5vcPSRlKIfvqypv/view?usp=drive_link](https://drive.google.com/file/d/1BJEGwTqrvcm_YMOQn5vcPSRlKIfvqypv/view?usp=drive_link)
 
 - ⚡ Fun fact **Like to study psycology☺️**
 
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanjalikadam&show_icons=true&locale=en&layout=compact" alt="shivanjalikadam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanjalikadam&show_icons=true&locale=en" alt="shivanjalikadam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanjalikadam&" alt="shivanjalikadam" /></p>
