@@ -1,4 +1,4 @@
-# ShivanjaliAKadam
+# Shivanjali Kadam
 <h1 align="center">Hi 👋, I'm Shivanjali Kadam</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg">
